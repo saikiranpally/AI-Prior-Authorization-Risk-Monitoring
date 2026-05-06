@@ -1,0 +1,16 @@
+Auth_ID,Patient_ID,Request_Date,Decision_Date,Payer_Name,Service_Category,Procedure_Type,Department,Authorization_Status,Denial_Reason,Requested_Amount,Approved_Amount,Turnaround_Days,Priority_Level,State,AI_Risk_Score,AI_Risk_Level,Recommended_Action
+AUTH0001,P1001,1/3/2026,1/5/2026,Apex Health Plan,Imaging,MRI Scan,Radiology,Approved,None,2400,2200,2,Medium,FL,0,Low Risk,Monitor normally
+AUTH0002,P1002,1/4/2026,1/12/2026,BlueRiver Insurance,Surgery,Knee Surgery,Surgery,Denied,Medical Necessity,12500,0,8,High,TX,105,High Risk,Review immediately
+AUTH0003,P1003,1/5/2026,1/11/2026,CareFirst Choice,Cardiology,Cardiac Stress Test,Cardiology,More Information Required,Missing Documentation,3200,0,6,High,CA,80,High Risk,Review immediately
+AUTH0004,P1004,1/6/2026,1/7/2026,MedSure Advantage,Physical Therapy,Physical Therapy Sessions,Rehabilitation,Approved,None,1800,1600,1,Low,NY,0,Low Risk,Monitor normally
+AUTH0005,P1005,1/7/2026,1/17/2026,United Regional Plan,Specialty Medication,Specialty Drug Approval,Pharmacy,Pending,Pending Review,9500,0,10,Urgent,GA,75,High Risk,Review immediately
+AUTH0006,P1006,1/8/2026,1/10/2026,Apex Health Plan,Durable Medical Equipment,Wheelchair Request,Orthopedics,Approved,None,2100,1900,2,Medium,NJ,0,Low Risk,Monitor normally
+AUTH0007,P1007,1/9/2026,1/18/2026,BlueRiver Insurance,Behavioral Health,Behavioral Health Evaluation,Behavioral Health,Denied,Out-of-Network,2800,0,9,Medium,IL,65,Medium Risk,Follow up within 48 hours
+AUTH0008,P1008,1/10/2026,1/14/2026,CareFirst Choice,Imaging,CT Scan,Radiology,Approved,None,1700,1500,4,Low,AZ,15,Low Risk,Monitor normally
+AUTH0009,P1009,1/11/2026,1/20/2026,MedSure Advantage,Surgery,Knee Surgery,Surgery,Denied,Eligibility Issue,11800,0,9,High,NC,100,High Risk,Review immediately
+AUTH0010,P1010,1/12/2026,1/19/2026,United Regional Plan,Cardiology,Cardiac Stress Test,Cardiology,More Information Required,Missing Documentation,3500,0,7,Urgent,PA,90,High Risk,Review immediately
+AUTH0011,P1011,1/13/2026,1/15/2026,Apex Health Plan,Physical Therapy,Physical Therapy Sessions,Rehabilitation,Approved,None,1600,1500,2,Low,FL,0,Low Risk,Monitor normally
+AUTH0012,P1012,1/14/2026,1/23/2026,BlueRiver Insurance,Specialty Medication,Specialty Drug Approval,Pharmacy,Denied,Medical Necessity,10200,0,9,Urgent,TX,115,High Risk,Review immediately
+AUTH0013,P1013,1/15/2026,1/18/2026,CareFirst Choice,Durable Medical Equipment,Wheelchair Request,Orthopedics,Approved,None,2300,2100,3,Medium,CA,0,Low Risk,Monitor normally
+AUTH0014,P1014,1/16/2026,1/25/2026,MedSure Advantage,Behavioral Health,Behavioral Health Evaluation,Behavioral Health,Pending,Pending Review,2600,0,9,High,NY,55,Medium Risk,Follow up within 48 hours
+AUTH0015,P1015,1/17/2026,1/20/2026,United Regional Plan,Imaging,MRI Scan,Radiology,Approved,None,2500,2300,3,Medium,GA,0,Low Risk,Monitor normally
