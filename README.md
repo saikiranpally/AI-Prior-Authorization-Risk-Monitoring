@@ -89,6 +89,4 @@ The objective of this project was to explore how AI-assisted analytics and Busin
 
 
 
-## Executive Overview Dashboard
 
-![Executive Overview](screenshots/AI-ASSISTED RISK.png)
